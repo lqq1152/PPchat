@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f11f7f44-3fa5-4fc3-80c2-1af3a0b7ea75" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1QxMyD31IRf8t4rCkQXyBXzCmvl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.models.js">
+    <configuration name="db-test.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="db-test.js" working-dir="$PROJECT_DIR$/db/db_test">
+      <method v="2" />
+    </configuration>
+    <configuration name="models.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/db/models.js" working-dir="$PROJECT_DIR$/db">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.models.js" />
+        <item itemvalue="Node.js.db-test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f11f7f44-3fa5-4fc3-80c2-1af3a0b7ea75" name="Default Changelist" comment="" />
+      <created>1568708045246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568708045246</updated>
+      <workItem from="1568708046822" duration="4339000" />
+      <workItem from="1568769300228" duration="4742000" />
+      <workItem from="1568774608017" duration="4167000" />
+      <workItem from="1568944200125" duration="230000" />
+      <workItem from="1568944451544" duration="113000" />
+      <workItem from="1568944628555" duration="197000" />
+      <workItem from="1568945873631" duration="12295000" />
+      <workItem from="1569041907345" duration="7004000" />
+      <workItem from="1569202426784" duration="5952000" />
+      <workItem from="1569462070997" duration="1970000" />
+      <workItem from="1569493810871" duration="6104000" />
+      <workItem from="1569547771357" duration="16148000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
